@@ -2,4 +2,4 @@
 Python関係のコンテンツ
 
 ### 目次
-- [IDLEの使い方](https://nbviewer.jupyter.org/github/datasci-terakoya/Python/blob/master/IDLE.ipynb)
+- [IDLEの使い方](https://nbviewer.jupyter.org/github/datasci-terakoya/Python/blob/main/IDLE.ipynb)
